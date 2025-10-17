@@ -1,6 +1,6 @@
 # Sistem/Teknologi Multimedia (IF25-40305)
 
-This repository contains assignments and projects for Digital Signal Processing Laboratory course, focusing on audio and video signal processing using Python and Jupyter Notebooks.
+This repository contains assignments and projects for Sistem/Teknologi Multimedia course, focusing on audio and video signal processing using Python.
 
 ## Repository Structure
 
