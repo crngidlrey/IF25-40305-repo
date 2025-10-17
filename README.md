@@ -56,17 +56,6 @@ cd IF25-40305-repo
 pip install numpy pandas matplotlib librosa soundfile scipy jupyter
 ```
 
-## Running the Notebooks
-
-1. Start Jupyter Notebook server:
-```bash
-jupyter notebook
-```
-
-2. In your web browser, navigate to the week you want to work on (e.g., `week1`, `week2`, or `week6`)
-
-3. Click on the respective `.ipynb` file to open and run the notebook
-
 ## Content Overview
 
 ### Week 1
